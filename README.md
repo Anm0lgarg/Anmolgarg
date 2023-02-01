@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-[![Praful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmOlgarg&show_icons=true)](https://github.com/AnmOlgarg)
+<!-- [![Praful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmOlgarg&show_icons=true)](https://github.com/AnmOlgarg)
 
 <br/>
 
@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmOlgarg&show_icons=true&hide=jupyter%20notebook)](https://github.com/AnmOlgarg)
 
 <br><br>
-
+ -->
 
 
 <hr>
@@ -60,7 +60,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anmol-garg/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmol-garg-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/anmol-garg-6b63a5179"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmol-garg-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mr_anmolgarg4142/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_anmolgarg4142-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto: anmol506070@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Anmol506070@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
