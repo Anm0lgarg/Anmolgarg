@@ -28,7 +28,7 @@
 
 <h3>🔢 Visitor Count</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/prafgup/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/AnmOlgarg/count.svg)
 
 
 <hr>
@@ -45,7 +45,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmOlgarg&show_icons=true&hide=jupyter%20notebook)](https://github.com/prafgup)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmOlgarg&show_icons=true&hide=jupyter%20notebook)](https://github.com/AnmOlgarg)
 
 <br><br>
 
@@ -59,11 +59,11 @@
 
 
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/anmol-garg/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmol-garg-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mr_anmolgarg4142/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_anmolgarg4142-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto: anmol506070@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Anmol506070@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p> -->
+</p>
 
 
 <hr>
